@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Optima Tour</string>
+    <string name="title_activity_music">Пошук турів</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_find_tour">ПОШУК ТУРІВ</string>
+    <string name="tab_last_minute_tour">ГАРЯЧІ ТУРИ</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">ВІДМІНА</string>
+    <string name="button_sort">ЗА ЦІНОЮ</string>
+    <string name="button_filtr">ПО МІСТАМ</string>
+    <string name="tv_country_hotel">Вибір країни</string>
+    <string name="tv_departure_from">Місто відправлення</string>
+    <string name="tv_date_and_duration">Дата виїзду</string>
+    <string name="tv_find_tour">ЗНАЙТИ ТУРИ</string>
+    <string name="btn_call">Подзвонити зараз</string>
+    <string name="text_send">Відправити</string>
+    <string name="text_to_pay">До сплати:</string>
+
+    <string name="action_about">Про нас</string>
+    <string name="action_actions">Акции</string>
+    <string name="action_contacts">Контакти</string>
+    <string name="action_help">Підтримка</string>
+
+    <string name="text_duration">Днів</string>
+    <string name="text_grn">ГРН</string>
+    <string name="text_country">Виберіть країну</string>
+    <string name="text_depart">Виберіть місто відправлення</string>
+    <string name="text_date">Виберіть дату відправлення</string>
+    <string name="text_title_alert">Увага</string>
+    <string name="text_error_find_tour">За вашим запитом не знайдено жодного туру! Натисніть ОК, щоб змінити параметри вводу</string>
+    <string name="text_in_price">До ціни входить:</string>
+    <string name="text_placement">Розміщення:</string>
+    <string name="text_nomer">Номер:</string>
+    <string name="text_food">Харчування:</string>
+    <string name="text_choose_food">Виберіть тип харчування</string>
+    <string name="text_choose_people">Виберіть кількість людей в турі</string>
+
+    <string name="text_about_us">Оптима ТУР - швидке та зручне бронювання турів у режимі «онлайн»
+
+Кожному періодично треба брати паузу і дозволяти собі відпочити від повсякденності, турбот, напруженої обстановки міста. Що може бути краще, ніж довгооічікувана подорож? Вона дозволяє переключитися, отримати нові враження, побачити і дізнатися щось нове. Поїздка на море, огляд пам\'\яток, шопінг-туризм, захоплюючі екскурсії - у кожного своя думка про ідеальний відпочинок.
+
+Наша компанія допоможе в організації якісного, безпечного та недорогого відпочинку. На http://otour.com.ua ви знайдете безліч цікавих пропозицій від великих та надійних туроператорів з перевіреним репутацією. Ми співпрацюємо тільки з найкращими з кращих, що дозволить вам не думати ні про що.</string>
+    <string name="text_contact">м. Київ \n
+вул. Борисоглібська, 7 офіс 208 \n
+E-mail: optima@otour.com.ua</string>
+
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

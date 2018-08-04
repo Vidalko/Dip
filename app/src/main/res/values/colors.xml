@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorDarker">#d3c498</color>
+    <color name="colorLighter">#FFF4D1</color>
+    <color name="colorBlack">#000000</color>
+
+
+    <color name="colorPrimary">#DDDDDD</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#bf7b00</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOrange">#bf7b00</color>
+    <color name="colorHalfOrange">#bfAF00</color>
+    <color name="colorTransparent">#14ffffff</color>
+    <color name="tab_unselected_text_color">#000000</color>
+    <color name="tab_selected_text_color">#000000</color>
+</resources>

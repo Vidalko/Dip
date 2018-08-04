@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- TODO: Update blank fragment layout -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    tools:context="com.example.vidal.dipl.fragment.FindTourFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tvCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:text="@string/tv_country_hotel"
+            android:textColor="@color/tab_selected_text_color" />
+
+        <EditText
+            android:id="@+id/eTextCountry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=""
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/tvCountryDepart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:text="@string/tv_departure_from"
+            android:textColor="@color/tab_selected_text_color" />
+
+        <EditText
+            android:id="@+id/eTextCountryDepart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=""
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/tvTextDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:text="@string/tv_date_and_duration"
+            android:textColor="@color/tab_selected_text_color" />
+
+        <EditText
+            android:id="@+id/eTextDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=""
+            android:textColor="@color/colorPrimary" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+
+            <ImageView
+                android:id="@+id/imPeople"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="40dp"
+                app:srcCompat="@mipmap/roup821" />
+
+            <ImageView
+                android:id="@+id/imFood"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/roup297" />
+
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:srcCompat="@mipmap/ymbol" />
+
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnFindTour"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_weight="7"
+        android:text="@string/tv_find_tour"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/ok_button_radius"
+        android:layout_marginBottom="30dp"
+        />
+</LinearLayout>
+
+
+
+

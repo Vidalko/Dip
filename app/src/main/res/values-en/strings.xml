@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Optima Tour</string>
+    <string name="title_activity_music">Find Tour</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_find_tour">FIND TOUR</string>
+    <string name="tab_last_minute_tour">HOT TOUR</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_sort">BY PRICE</string>
+    <string name="button_filtr">BY CITY</string>
+    <string name="tv_country_hotel">Select country</string>
+    <string name="tv_departure_from">City of departure</string>
+    <string name="tv_date_and_duration">Date of departure</string>
+    <string name="tv_find_tour">FIND TOUR</string>
+    <string name="btn_call">Call now</string>
+    <string name="text_send">Send</string>
+    <string name="text_to_pay">To pay:</string>
+
+    <string name="action_about">About us</string>
+    <string name="action_actions">Акции</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+
+    <string name="text_duration">Day</string>
+    <string name="text_grn">GRN</string>
+    <string name="text_country">Select country</string>
+    <string name="text_depart">Select city for departure</string>
+    <string name="text_date">Select date for departure</string>
+    <string name="text_title_alert">Attention</string>
+    <string name="text_error_find_tour">No one tour is found for your request! Click OK to change the input parameters</string>
+    <string name="text_in_price">Included in the price:</string>
+    <string name="text_placement">Placement:</string>
+    <string name="text_nomer">Apartment:</string>
+    <string name="text_food">Food:</string>
+    <string name="text_choose_food">Select type of food</string>
+    <string name="text_choose_people">Select the number of people on the tour</string>
+
+    <string name="text_about_us">Optima TOUR - fast and convenient booking of tours in the "online" mode
+
+Everyone periodically needs to take a break and allow themselves to relax from the daily routine, cares, and tense city environment. What could be better than a long-awaited trip? It allows you to switch, get impressions, see and learn something new. A trip to the sea, sightseeing, shopping tourism, fascinating excursions - everyone has their own idea of ​​an ideal holiday.
+
+Our company will help in organizing a quality, safe and inexpensive vacation. On http://otour.com.ua you will find many interesting offers from large and reliable tour operators with a proven reputation. We cooperate only with the best of the best, which will allow you not to worry about anything.</string>
+    <string name="text_contact">Kiev \n
+Borisoglebskaya st., 7 office 208 \n
+E-mail: optima@otour.com.ua</string>
+
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
